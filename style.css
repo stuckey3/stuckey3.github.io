@@ -1,0 +1,141 @@
+
+/* CSS Document */
+body {
+		width:960px;
+		margin:0 auto;
+	font-size:80%;
+		font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';
+		letter-spacing: 0.15em;
+		background-color: antiquewhite;
+}
+	div.page {
+		max-width: 960px;
+		min-width:  960px;
+		margin: 10px auto 10 px auto;
+		padding: 20px;
+
+		background color: darkgoldenrod;
+		z-index: 5
+}
+	div.logo {
+		width: 150px;
+		margin: 10px auto 25px auto;
+		
+		
+}
+	ul {
+		width: 570px;
+		padding: 15px;
+		margin: 0px auto 0px auto;
+		border-top: 2px solid #000;
+		border-bottom: 1px solid #000;
+		text-align: center;}
+	
+	li{
+		display: inline;
+		margin: 0px 3px:}
+	#paragraph1 {
+		text-align: center;
+		margin: 20 px auto 20px auto;
+		padding: 15px;
+		font-weight: normal;}
+#paragraph2 {
+	text-align: center;
+		margin: 20 px auto 20px auto;
+		padding: 15px;
+		font-weight: normal;
+		font-size: 20px;
+	}
+
+	a{
+		color: #EB181C;
+		text-transform: uppercase;
+		padding: 6px 18px 5px 18px:}
+
+#center{
+			margin: auto;
+			align-items: center;
+	
+}
+
+
+
+div.gallery {
+  margin: 8px;
+  border: 2px solid #060505;
+  float: left;
+  width: 300px;
+
+
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 19px;
+  text-align: center;
+}
+div.header{
+	border: 3px groove #E8680F;
+	border-radius: 25px;
+	font-family: cursive;
+	float:left;
+	border-width:medium;
+	color: blueviolet;
+	
+}
+div.column{
+	float: left;
+	width: 450px;
+	margin: 5px;
+	padding: 5px;
+	text-align: center;
+	border: 4px groove #982527;
+	border-radius: 25px;
+	
+
+	
+}
+
+}
+
+div.myresume{
+	float: left;
+	width: 960px;
+	border: 4px groove #982527;
+
+}
+	
+div.indexpictures{
+	float:left;
+	width:250px;
+	margin: 30px;
+	text-align: center;
+	
+	
+}	
+div.indexpictures img {
+  width: 100%;
+  height: auto;
+}
+div.indexparagraph{
+	float:left;
+	text-align: center;
+	font-size: 16px;
+
+
+	}
+
+div.resume{
+	width:  100%;
+	background-color: yellowgreen;
+}
+
+	
